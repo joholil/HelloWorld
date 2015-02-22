@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		311B94441A99D2D5001205F0 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 311B94431A99D2D5001205F0 /* File.swift */; };
+		312E4E891A99D93A009A1AE0 /* l-Cutest-pic-ever.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 312E4E881A99D93A009A1AE0 /* l-Cutest-pic-ever.jpg */; };
 		3177BF8A1A99CE370077DC68 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3177BF891A99CE370077DC68 /* AppDelegate.swift */; };
 		3177BF8C1A99CE370077DC68 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3177BF8B1A99CE370077DC68 /* ViewController.swift */; };
 		3177BF8F1A99CE370077DC68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3177BF8D1A99CE370077DC68 /* Main.storyboard */; };
@@ -27,7 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		311B94431A99D2D5001205F0 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		312E4E881A99D93A009A1AE0 /* l-Cutest-pic-ever.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "l-Cutest-pic-ever.jpg"; path = "../../../l-Cutest-pic-ever.jpg"; sourceTree = "<group>"; };
 		3177BF841A99CE370077DC68 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3177BF881A99CE370077DC68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3177BF891A99CE370077DC68 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -82,10 +82,10 @@
 				3177BF891A99CE370077DC68 /* AppDelegate.swift */,
 				3177BF8B1A99CE370077DC68 /* ViewController.swift */,
 				3177BF8D1A99CE370077DC68 /* Main.storyboard */,
+				312E4E881A99D93A009A1AE0 /* l-Cutest-pic-ever.jpg */,
 				3177BF901A99CE370077DC68 /* Images.xcassets */,
 				3177BF921A99CE370077DC68 /* LaunchScreen.xib */,
 				3177BF871A99CE370077DC68 /* Supporting Files */,
-				311B94431A99D2D5001205F0 /* File.swift */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
@@ -196,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3177BF8F1A99CE370077DC68 /* Main.storyboard in Resources */,
+				312E4E891A99D93A009A1AE0 /* l-Cutest-pic-ever.jpg in Resources */,
 				3177BF941A99CE370077DC68 /* LaunchScreen.xib in Resources */,
 				3177BF911A99CE370077DC68 /* Images.xcassets in Resources */,
 			);
@@ -216,7 +217,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3177BF8C1A99CE370077DC68 /* ViewController.swift in Sources */,
-				311B94441A99D2D5001205F0 /* File.swift in Sources */,
 				3177BF8A1A99CE370077DC68 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
